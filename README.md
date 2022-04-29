@@ -1,3 +1,3 @@
 # Buurmaaltijden_BP1
-Ontwikkel een Java applicatie wat buurtbewoners met elkaar samen brengt. Mijn idee is om een applicatie te maken waarin buurtbewoners kunnen inzien waar en wanneer er een buurtmaaltijd georganiseerd wordt. E.v.t. allergieën van de buurtbewoners kunnen zo ook zichtbaar worden. 
+Ontwikkel een Java applicatie die buurtbewoners met elkaar samen brengt. Mijn idee is om een applicatie te maken waarin buurtbewoners kunnen inzien waar en wanneer er een buurtmaaltijd georganiseerd wordt. E.v.t. allergieën van de buurtbewoners kunnen zo ook zichtbaar worden. 
 Ik heb voor deze applicatie gekozen omdat ik merk dat er veel oudere in mijn buurt zijn welke zich eenzaam voelen, ik verwacht dat door mijn applicatie de buurtbewoners zich minder eenzaam gaan voelen. Daarnaast is het zo dat de buurtbewoners elkaar beter gaan leren kennen en het bevorderd de sociale contacten in de buurt.
