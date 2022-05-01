@@ -114,7 +114,7 @@ public class TabMijnMaaltijden {
         bewerken.setOnAction(event -> {
             System.out.println("Button bewerken is clicked!");
             Maaltijden maaltijden = tvBuurtbewoners.getSelectionModel().getSelectedItem();
-            new bewerkenMaaltijd(BorderPaneBewerkenMaaltijd, BorderPaneOverzichtMijnmaaltijden, bewooner, maaltijden);
+            bewerkenMaaltijd bewerkenMaaltijd = new bewerkenMaaltijd(BorderPaneBewerkenMaaltijd, BorderPaneOverzichtMijnmaaltijden, bewooner, maaltijden);
             BorderPaneBewerkenMaaltijd.setVisible(true);
             BorderPaneOverzichtMijnmaaltijden.setVisible(false);
         });

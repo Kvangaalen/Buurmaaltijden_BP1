@@ -61,7 +61,7 @@ public class TabBuurtbewoners {
     protected final TextField tfPostcode;
     protected final ButtonBar buttonBar;
     protected final Button toonDetailsBuurtbewoonerBTN;
-    
+
     protected final Label label5;
     protected final TableView<Buurtbewoners> TVbuurtbewoonerOverzicht;
     protected final TableColumn colNaam;
@@ -112,7 +112,7 @@ public class TabBuurtbewoners {
         AnchorPane.setTopAnchor(borderPane, 0.0);
         borderPane.setPrefHeight(400.0);
         borderPane.setPrefWidth(600.0);
-  toonDetailsBuurtbewoonerBTN.disableProperty().bind(TVbuurtbewoonerOverzicht.getSelectionModel().selectedItemProperty().isNull());
+        toonDetailsBuurtbewoonerBTN.disableProperty().bind(TVbuurtbewoonerOverzicht.getSelectionModel().selectedItemProperty().isNull());
         BorderPane.setAlignment(TVbuurtbewoonerOverzicht, javafx.geometry.Pos.CENTER);
         TVbuurtbewoonerOverzicht.setPrefHeight(200.0);
         TVbuurtbewoonerOverzicht.setPrefWidth(200.0);
@@ -256,8 +256,6 @@ public class TabBuurtbewoners {
         buttonBar.setPrefHeight(40.0);
         buttonBar.setPrefWidth(200.0);
 
-
-
         toonDetailsBuurtbewoonerBTN.setMnemonicParsing(false);
         toonDetailsBuurtbewoonerBTN.setText("Toon details bewooner");
         toonDetailsBuurtbewoonerBTN.setOpaqueInsets(new Insets(0.0));
@@ -290,7 +288,7 @@ public class TabBuurtbewoners {
         toonDetailsBuurtbewoonerBTN.setOnAction(event -> {
             //show just one selected row
             overzichtAllergie.getItems().clear();
-        
+
             Buurtbewoners buurtbewooner = TVbuurtbewoonerOverzicht.getSelectionModel().getSelectedItem();
 
             int strHuisnummer = buurtbewooner.getHuisnummer();
@@ -306,7 +304,7 @@ public class TabBuurtbewoners {
             } catch (SQLException ex) {
                 Logger.getLogger(TabBuurtbewoners.class.getName()).log(Level.SEVERE, null, ex);
             }
-                try {
+            try {
                 showBuurtbewoners();
             } catch (SQLException ex) {
                 Logger.getLogger(TabBuurtbewoners.class.getName()).log(Level.SEVERE, null, ex);
@@ -331,16 +329,16 @@ public class TabBuurtbewoners {
                 buurtbewoners = new Buurtbewoners(rs.getString("telefoonnummer"), rs.getString("naam"), rs.getString("postcode"), rs.getInt("huisnummer"));
                 buurtbewonersList.add(buurtbewoners);
             }
-            
+
         } catch (Exception ex) {
             ex.printStackTrace();
         } finally {
             if (con != null && !con.isClosed()) { // validate conn whether it is null 
                 con.close();
             }
-           
+
         }
-    return buurtbewonersList;
+        return buurtbewonersList;
     }
 
     // toonen van buurtbewoners

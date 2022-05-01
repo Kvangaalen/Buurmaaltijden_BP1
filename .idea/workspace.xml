@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc3f02e1-ddda-4d02-9bf6-7e41bf4d661e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/hooks/applypatch-msg.sample" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/applypatch-msg.sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/commit-msg.sample" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/commit-msg.sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/fsmonitor-watchman.sample" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/fsmonitor-watchman.sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/post-update.sample" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/post-update.sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/pre-applypatch.sample" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/pre-applypatch.sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/pre-commit.sample" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/pre-commit.sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/pre-merge-commit.sample" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/pre-merge-commit.sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/pre-push.sample" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/pre-push.sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/pre-rebase.sample" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/pre-rebase.sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/pre-receive.sample" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/pre-receive.sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/prepare-commit-msg.sample" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/prepare-commit-msg.sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/update.sample" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/update.sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/info/exclude" beforeDir="false" afterPath="$PROJECT_DIR$/info/exclude" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycompany/BuurtMaaltijden/GuiAanmelden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/BuurtMaaltijden/GuiAanmelden.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycompany/BuurtMaaltijden/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/BuurtMaaltijden/Methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycompany/BuurtMaaltijden/TabBuurtbewoners.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/BuurtMaaltijden/TabBuurtbewoners.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycompany/BuurtMaaltijden/TabBuurtmaaltijden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/BuurtMaaltijden/TabBuurtmaaltijden.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycompany/BuurtMaaltijden/TabMijnMaaltijden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/BuurtMaaltijden/TabMijnMaaltijden.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/BuurtMaaltijden-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/BuurtMaaltijden-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mycompany/BuurtMaaltijden/Allergie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/BuurtMaaltijden/Allergie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mycompany/BuurtMaaltijden/Buurtbewoners.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/BuurtMaaltijden/Buurtbewoners.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mycompany/BuurtMaaltijden/DBCPDataSource.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/BuurtMaaltijden/DBCPDataSource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mycompany/BuurtMaaltijden/GuiAanmelden.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/BuurtMaaltijden/GuiAanmelden.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mycompany/BuurtMaaltijden/Maaltijden.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/BuurtMaaltijden/Maaltijden.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mycompany/BuurtMaaltijden/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/BuurtMaaltijden/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mycompany/BuurtMaaltijden/Methods$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/BuurtMaaltijden/Methods$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mycompany/BuurtMaaltijden/Methods$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/BuurtMaaltijden/Methods$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mycompany/BuurtMaaltijden/Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/BuurtMaaltijden/Methods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mycompany/BuurtMaaltijden/TabBuurtbewoners.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/BuurtMaaltijden/TabBuurtbewoners.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mycompany/BuurtMaaltijden/TabBuurtmaaltijden.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/BuurtMaaltijden/TabBuurtmaaltijden.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mycompany/BuurtMaaltijden/TabMaaltijdOverzicht$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/BuurtMaaltijden/TabMaaltijdOverzicht$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mycompany/BuurtMaaltijden/TabMaaltijdOverzicht.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/BuurtMaaltijden/TabMaaltijdOverzicht.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mycompany/BuurtMaaltijden/TabMijnMaaltijden.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/BuurtMaaltijden/TabMijnMaaltijden.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mycompany/BuurtMaaltijden/bewerkenMaaltijd.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/BuurtMaaltijden/bewerkenMaaltijd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="28ZUwKsLOH3chZYeYAEkOrW3HbH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/IntelliJ_projects/Buurmaaltijden_BP1"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.mycompany.BuurtMaaltijden.Main" />
+      <module name="BuurtMaaltijden" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mycompany.BuurtMaaltijden.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc3f02e1-ddda-4d02-9bf6-7e41bf4d661e" name="Changes" comment="" />
+      <created>1651423845784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651423845784</updated>
+      <workItem from="1651423862855" duration="870000" />
+      <workItem from="1651425014278" duration="257000" />
+      <workItem from="1651425278254" duration="90000" />
+      <workItem from="1651426648684" duration="87000" />
+      <workItem from="1651426808219" duration="331000" />
+      <workItem from="1651427182582" duration="266000" />
+      <workItem from="1651427566730" duration="54000" />
+      <workItem from="1651427628463" duration="4000" />
+      <workItem from="1651427689443" duration="291000" />
+      <workItem from="1651428460974" duration="360000" />
+      <workItem from="1651428847695" duration="66000" />
+      <workItem from="1651428961087" duration="24000" />
+      <workItem from="1651429400045" duration="635000" />
+      <workItem from="1651430054764" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

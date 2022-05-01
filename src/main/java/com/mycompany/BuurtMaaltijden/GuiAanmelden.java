@@ -87,7 +87,6 @@ public final class GuiAanmelden {
             Buurtbewoners buurtbewooner = tvBuurtbewoners.getSelectionModel().getSelectedItem();
             System.out.println(buurtbewonerlist.get(0).getPostcode());
             try {
-                
                 new GuiTabPane(BuurtBewoners, buurtbewooner);
             } catch (SQLException ex) {
                 Logger.getLogger(GuiAanmelden.class.getName()).log(Level.SEVERE, null, ex);
